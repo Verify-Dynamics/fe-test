@@ -1,0 +1,155 @@
+{
+	"quotes": [
+        {
+			"text": "There are only two kinds of languages: the ones people complain about and the ones nobody uses.",
+			"author_id": 1
+		},
+		{
+			"text": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+			"author_id": 2
+		},
+		{
+			"text": "First, solve the problem. Then, write the code.",
+			"author_id": 3
+		},
+		{
+			"text": "Java is to JavaScript what car is to Carpet.",
+			"author_id": 4
+		},
+		{
+			"text": "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.",
+			"author_id": 5
+		},
+		{
+			"text": "I''m not a great programmer; I''m just a good programmer with great habits.",
+			"author_id": 6
+		},
+		{
+			"text": "Truth can only be found in one place: the code.",
+			"author_id": 7
+		},
+		{
+			"text": "If you have to spend effort looking at a fragment of code and figuring out what it's doing, then you should extract it into a function and name the function after the 'what'.",
+			"author_id": 2
+		},
+		{
+			"text": "The real problem is that programmers have spent far too much time worrying about efficiency in the wrong places and at the wrong times; premature optimization is the root of all evil (or at least most of it) in programming.",
+			"author_id": 8
+		},
+		{
+			"text": "SQL, Lisp, and Haskell are the only programming languages that I’ve seen where one spends more time thinking than typing.",
+			"author_id": 9
+		},
+		{
+			"text": "Deleted code is debugged code.",
+			"author_id": 10
+		},
+		{
+			"text": "There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies and the other way is to make it so complicated that there are no obvious deficiencies.",
+			"author_id": 11
+		},
+		{
+			"text": "Simplicity is prerequisite for reliability.",
+			"author_id": 12
+		},
+		{
+			"text": "There are only two hard things in Computer Science: cache invalidation and naming things.",
+			"author_id": 13
+		},
+		{
+			"text": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight.",
+			"author_id": 14
+		},
+		{
+			"text": "Controlling complexity is the essence of computer programming.",
+			"author_id": 15
+		},
+		{
+			"text": "The only way to learn a new programming language is by writing programs in it.",
+			"author_id": 16
+		}
+	],
+    "authors": [
+        {
+            "firstname":"Bjarne",
+            "lastname":" Stroustrup",
+            "dob":"30 December 1950"
+        },
+        {
+            "firstname":"Martin",
+            "lastname":" Fowler",
+            "dob":"18 December 1963"
+        },
+        {
+            "firstname":"John",
+            "lastname":" Johnson",
+            "dob":""
+        },
+        {
+            "firstname":"Chris",
+            "lastname":"Heilmann",
+            "dob":""
+        },
+        
+        {
+            "firstname":"John",
+            "lastname":"Woods",
+            "dob":""
+        },
+        {
+            "firstname":"Kent",
+            "lastname":"Beck",
+            "dob":"31 March 1961"
+        },
+        {
+            "firstname":"Robert C. ",
+            "lastname":"Martin",
+            "dob":"1952"
+        },
+        {
+            "firstname":"Donald",
+            "lastname":"Knuth",
+            "dob":"10 January 1938"
+        },
+        {
+            "firstname":"Philip",
+            "lastname":"Greenspun",
+            "dob":"28 September 1963"
+        },
+        {
+            "firstname":"Jeff",
+            "lastname":"Sickel",
+            "dob":""
+        },
+        {
+            "firstname":"C.A.R.",
+            "lastname":"Hoare",
+            "dob":"11 January 1934"
+        },
+        {
+            "firstname":"Edsger W.",
+            "lastname":"Dijkstra",
+            "dob":"11 May 1930"
+        },
+        {
+            "firstname":"Phil",
+            "lastname":"Karlton",
+            "dob":"28-Feb-1947"
+        },
+        {
+            "firstname":"Bill",
+            "lastname":"Gates",
+            "dob":"28 October 1955"
+        },
+        {
+            "firstname":"Brian",
+            "lastname":"Kernighan",
+            "dob":"1 January 1942"
+        },
+        {
+            "firstname":"Dennis",
+            "lastname":"Ritchie",
+            "dob":"9 September 1941"
+        }
+    ]
+}

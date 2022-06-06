@@ -4,6 +4,7 @@ const port = 8000 || process.env.PORT;
 const quotesRouter = require("./routes/quotes");
 const authorsRouter = require("./routes/authors");
 const initialiseTables = require("./services/init");
+const data = require("./services/data.json");
 
 console.log("\x1b[37m", "\n Launching Express Server...\n");
 
@@ -37,7 +38,7 @@ ___________________________________________________________________\n`
 
 console.log("\x1b[1m", "Mounting SQL Lite Database with API endpoints... \n");
 
-const createTablesResponse = initialiseTables();
+const createTablesResponse = initialiseTables(data);
 console.log("Creating Tables:");
 createTablesResponse.forEach((table) => {
   console.log(
